@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: vi\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#. Text in function
+#: single.php:52
+msgid "Tags: "
+msgstr ""
+
+#. Text in function
+#: single.php:18 single.php:30 template-parts/content-item.php:27
+#: template-parts/content.php:18
+msgid ", "
+msgstr ""
+
+#. Text in echo
+#: footer.php:20
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+#. Text in echo
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Người viết"
+
+#. Text in function
+#: functions.php:1
+msgid "Bottom 1 Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Bottom 2 Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Bottom 3 Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Bottom 4 Menu"
+msgstr ""
+
+#. Text in echo
+#: header.php:37
+msgid "Call"
+msgstr "Gọi"
+
+#. Text in echo
+#: single-tict_product.php:37 template-product/category_product.php:31
+msgid "Category product"
+msgstr "Danh mục"
+
+#. Text in echo
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: footer.php:43 template-product/item.php:13
+msgid "Contact Us"
+msgstr "Liên hệ"
+
+#. Text in echo
+#: template-parts/content-search.php:17 template-parts/content-item.php:17
+#: template-parts/content.php:8
+msgid "Featured"
+msgstr "Bán chạy"
+
+#. Text in echo
+#: footer.php:33
+msgid "Follow Us"
+msgstr "Theo dõi"
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: page-san-pham.php:10 header.php:71 taxonomy-manufacturer.php:22
+#: taxonomy-product_category.php:22
+msgid "Home"
+msgstr "Trang chủ"
+
+#. Text in echo
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Có vẻ như không có gì được tìm thấy. Có thể thử tìm kiếm?"
+
+#. Text in echo
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: header.php:27
+msgid "Like Us"
+msgstr "Thích"
+
+#. Text in function
+#: functions.php:1
+msgid "Main Bottom"
+msgstr ""
+
+#. Text in echo
+#: footer.php:7
+msgid "Main Menu"
+msgstr "Danh mục chính"
+
+#. Text in echo
+#: single-tict_product.php:90
+msgid "Manufacturer"
+msgstr "Nhà cung cấp"
+
+#. Text in echo
+#: single-tict_product.php:150
+msgid "More"
+msgstr "Thêm"
+
+#. Text in echo
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#. Text in echo
+msgid "View Detail"
+msgstr "Chi tiết"
+
+#. Text in echo
+msgid "View All"
+msgstr "Xem tất cả"
+
+#. Text in echo
+msgid "View More"
+msgstr "Xem thêm"
+
+#. Text in function
+#: image.php:25
+msgid "Next Image"
+msgstr "Hình tiếp"
+
+#. Text in echo
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy gì"
+
+#. Text in echo
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ồ! Trang không tìm thấy."
+
+#. Text in echo
+#: single-tict_product.php:113
+msgid "Order Now"
+msgstr "Đặt ngay"
+
+#. Text in echo
+#: single-tict_product.php:150
+msgid "Other Products"
+msgstr "Sản phẩm khác"
+
+#. Text in echo
+#: single-tict_product.php:150
+msgid "Related Products"
+msgstr "Sản phẩm cùng loại"
+
+#. Text in echo
+#: single-tict_product.php:150
+msgid "Recommended Products"
+msgstr "Sản phẩm đề xuất"
+
+#. Text in function
+#: single.php:56 image.php:80 template-parts/content-search.php:30
+#: template-parts/content-item.php:43 template-parts/content-page.php:16
+#: template-parts/content.php:34
+msgid "Page"
+msgstr "Trang"
+
+#. Text in function
+#: single.php:56 image.php:80 template-parts/content-search.php:30
+#: template-parts/content-item.php:43 template-parts/content-page.php:16
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Trang:"
+
+#. Text in function
+#: image.php:24
+msgid "Previous Image"
+msgstr "Hình trước"
+
+#. Text in echo
+#: single-tict_product.php:80 template-product/item.php:8
+msgid "Price"
+msgstr "Giá"
+
+#. Text in function
+#: functions.php:1
+msgid "Primary"
+msgstr ""
+
+#. Text in function
+#: template
+msgid "Posts"
+msgstr "Bài viết"
+
+#. Text in function
+#: template
+msgid "Post"
+msgstr "Bài viết"
+
+#. Text in function
+#: template-product/category_product.php:39
+msgid "Product"
+msgstr "Sản phẩm"
+
+#. Text in function
+#: template-product/category_product.php:39
+msgid "Products"
+msgstr "Sản phẩm"
+
+#. Text in echo
+#: single-tict_product.php:131
+msgid "Product Details"
+msgstr "Thông tin sản phẩm"
+
+#. Text in function
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: single-tict_product.php:111
+msgid "Status"
+msgstr "Trạng thái"
+
+#. Text in echo
+#: single.php:102
+msgid "Submit your feedback"
+msgstr "Gửi phản hồi"
+
+#. Text in function
+#: functions.php:1
+msgid "Top menu"
+msgstr ""
+
+#. Text in function
+#: template-product/item.php:11
+msgid "VND"
+msgstr "đ"
+
+#. Text in function
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài bởi %s"
+
+#. Text in echo
+#: category.php:83 template-product/item.php:19
+msgid "View Details"
+msgstr "Chi tiết"
+
+#. Text in function
+#: template-parts/content-search.php:21
+msgid "[Edit]"
+msgstr "[Chỉnh sửa]"
+
+#. Text in function
+#: functions.php:1
+msgid "collapse child menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "expand child menu"
+msgstr ""
+
+#. Text in function
+msgid "in_stock"
+msgstr "Còn hàng"
+
+#. Text in function
+msgid "In Stock"
+msgstr "Còn hàng"
+
+#. Text in function
+msgid "out_stock"
+msgstr "Hết hàng"
+
+#. Text in echo
+#: single-tict_product.php:110
+msgid "Out of Stock"
+msgstr "Có thể đã hết hàng!"
+
+#. Text in function
+msgid "Help Center"
+msgstr "Trợ giúp"
+
+#. Text in function
+msgid "Price Contact"
+msgstr "Giá liên hệ"
+
+#. Text in function
+msgid "Promotion"
+msgstr "Khuyến mãi"
+
+#. Text in function
+msgid "Shelf life"
+msgstr "Hạn sử dụng"
+
+#. Text in function
+msgid "Sale Off"
+msgstr "Giảm giá"

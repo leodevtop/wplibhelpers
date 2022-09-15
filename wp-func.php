@@ -1,5 +1,5 @@
 <?php
-
+register_activation_hook(__FILE__, ['ClassName', 'activate']);
 
 load_plugin_textdomain('own_plg_booking', false, plugin_basename(dirname(__FILE__ ) ).'/languages');
 require_once (plugin_dir_path(__FILE__).'setup.php');
@@ -38,7 +38,7 @@ add_action('admin_head', 'own_column_width');
 
 add_action ('add_meta_boxes', 'own_booking_add_metaboxes');
 function own_booking_add_metaboxes() {
-		// add_meta_box ( string $id, string $title, callable $callback, string|array|WP_Screen $screen = null, string $context = 'advanced|side|normal', string $priority = 'default|high|low', array $callback_args = null )
+		// add_meta_box($id:string,$title:string,$callback:callable,$screen:string|array|WP_Screen|null,$context:string,$priority:string,$callback_args:array|null )
 		add_meta_box('own_booking_metabox_id', __('Order Metabox'), 'own_booking_callback', 'own_booking', 'normal', 'high');
 }
 function own_booking_callback($post, $metabox) {
